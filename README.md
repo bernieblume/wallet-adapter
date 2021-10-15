@@ -1,13 +1,15 @@
 # `@solana/wallet-adapter`
 
-Modular TypeScript wallet adapters and components for Solana applications.
-
-![Wallets](wallets.png)
-
 ## Info about bernieblume fork
 
 This fork by bernieblume removed reference to friggin' torus and ledge wallets in wallet-adapter-wallets.
 These two wallets tend to cause pesky build and/or runtime errors - so I removed these wallets for now.
+
+## Original intro
+
+Modular TypeScript wallet adapters and components for Solana applications.
+
+![Wallets](wallets.png)
 
 ## Quick Links
 
