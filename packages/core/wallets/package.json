@@ -2,7 +2,7 @@
     "name": "@solana/wallet-adapter-wallets",
     "version": "0.10.2",
     "author": "Solana Maintainers <maintainers@solana.foundation>",
-    "repository": "https://github.com/solana-labs/wallet-adapter",
+    "repository": "https://github.com/bernieblume/wallet-adapter",
     "license": "Apache-2.0",
     "main": "lib/index.js",
     "esnext": "lib/index.js",
